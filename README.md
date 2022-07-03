@@ -2,9 +2,9 @@
 Password-Locker is an small project to store your passwords save.
 It's an commandline usersafe password manager and one of my first projects.
 
-![alt text]../main/pictures/pre1.png?raw=true
+![Preview1](pictures/pre1.png)
 
-## Requirements
+## libarys used
 - random
 - string
 - base64
@@ -18,6 +18,7 @@ It's an commandline usersafe password manager and one of my first projects.
 - You can show the data in the process
 - Dont forget to save the data with (q)
 
+![Preview2](pictures/pre2.png)
 ## usage after
 - load key and password file
 - show or add data
