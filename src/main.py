@@ -31,7 +31,7 @@ def main():
 	▒▒
 
 	--------------------------------------------------------------
-	 Welcome to Password-Lock, your secure password Manager !            
+	 Welcome to Password-Locker, your secure password Manager !            
 	--------------------------------------------------------------
 
 	 Choose an action below to begin:
