@@ -2,6 +2,8 @@
 Password-Locker is an small project to store your passwords save.
 It's an commandline usersafe password manager and one of my first projects.
 
+![alt text](https://https://github.com/lkh-767572/passwordlocker/blob/main/pictures/pre1.png?raw=true)
+
 # Requirements
 - random
 - string
